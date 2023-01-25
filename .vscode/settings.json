@@ -1,0 +1,7 @@
+{
+    "python.pythonPath" : "C:\\Users\\morgane.berrod\\Anaconda3\\python.exe",
+    "python.terminal.activateEnvInCurrentTerminal" : true,
+    "python.linting.banditEnabled": true,
+    "python.condaPath" : "C:\\Users\\morgane.berrod\\Anaconda3\\Scripts\\conda.exe",
+    "terminal.integrated.cwd": "${fileDirname}"
+} 
